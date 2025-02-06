@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.divMere{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+.divFille{
+    height: 200px;
+    width: 200px;
+    background-color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    ;
+}
