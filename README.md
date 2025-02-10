@@ -1,1 +1,5 @@
-Ce fichier c'est mon readme.md avec ce fichier je pourrai ecrire tout ce que je veut
+
+### Mon projet de gestion d'école
+J'ai travaillé sur un projet très important c'est une application de gestion d'école qui gère plusieurs problématique
+
+
